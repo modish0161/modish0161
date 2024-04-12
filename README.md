@@ -109,6 +109,12 @@ Below are some of the key projects I'm involved in, each showcasing my diverse r
 - **Role**: AI Developer
 - **[Explore Zero GPT](https://zero-gpt-clone.vercel.app/)**
 
+### **Phoenix Industry Project Landing Page - Skills City Boot Camp**
+- **Overview**: This landing page features a dynamic 3D globe to represent our commitment to social values in ESG and carbon emissions, inviting global engagement and collective impact.
+- **Role**: Lead Developer & Designer
+- **Technologies**: JavaScript, React.js, 3D Modeling
+- **[Visit Phoenix Industry Landing Page](https://phoenix-industry-project-landing-page.vercel.app/)**
+
 ### **Phoenix Software Application**
 - **Overview**: Creating software solutions that uphold social values, focusing on environmental, social, and governance (ESG) principles.
 - **Role**: Project Manager & Lead Developer
