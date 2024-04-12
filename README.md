@@ -8,11 +8,37 @@ With over 15 years of experience in architectural technology and software engine
 Here at GitHub, I share my projects, collaborate on open-source initiatives, and contribute to a community of developers passionate about cutting-edge technology and design.
 
 ## 🔧 Technologies & Tools
-- **Languages**: JavaScript, Python, Solidity
-- **Frameworks**: React.js, Next.js, Node.js
-- **Blockchain**: Ethereum, Polygon, Smart Contracts, IPFS, Ethers.js
-- **Tools**: Vercel, Docker, AWS, Metamask, Hardhat, OpenZeppelin
-- **Design**: Autodesk AutoCAD, Adobe Photoshop, Figma
+
+As a Senior Software Engineer and Architectural Technologist, I leverage a diverse array of technologies to create innovative solutions across web development, blockchain, and software architecture. My technical toolkit includes:
+
+### **Programming Languages**
+- **JavaScript**: Expertise in both frontend and backend development, creating dynamic user experiences and server-side logic.
+- **Python**: Proficient in building scalable backend applications, data analysis, and machine learning projects.
+- **Solidity**: Specializing in smart contract development for Ethereum-based applications.
+
+### **Frameworks & Libraries**
+- **React.js & Next.js**: Building interactive UIs and SSR applications.
+- **Node.js**: Developing scalable server-side applications.
+- **Tailwind.css & Framer Motion**: Styling and animating web applications with modern CSS frameworks and animation libraries.
+
+### **Blockchain & Web3**
+- **Ethereum & Polygon**: Deploying decentralized applications and smart contracts.
+- **Smart Contracts**: Creating and managing contracts using Solidity and tools like Hardhat and Truffle.
+- **IPFS & Ethers.js**: Implementing decentralized storage solutions and Ethereum blockchain interaction.
+
+### **Development Tools & Platforms**
+- **Vercel & AWS**: Hosting and managing web applications with a focus on performance and scalability.
+- **Docker**: Containerizing applications to ensure consistency across various development and deployment environments.
+- **Metamask & Web3Modal**: Integrating blockchain functionalities into web applications for user interactions with Ethereum networks.
+
+### **Design Tools**
+- **Autodesk AutoCAD & 3D Viz**: Designing and visualizing architectural projects.
+- **Adobe Creative Suite**: Photoshop, Illustrator, and After Effects for creating stunning visuals and designs.
+- **Figma & Spline**: UI/UX design and 3D web graphics.
+
+### **Additional Technologies**
+- **Microsoft Azure & Google Cloud**: Managing cloud infrastructures and services.
+- **MongoDB, Django, and Flask**: Handling database management and backend web frameworks for robust application development.
 
 ## 🌟 Highlight Projects
 Here are some of the key projects I'm working on:
