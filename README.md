@@ -19,8 +19,18 @@ Here at GitHub, I share my projects, collaborate on open-source initiatives, and
 - **[Moo-lah.io](https://www.moo-lah.io)**: Financial education platform providing comprehensive insights and tools for personal finance management.
 - **[Machu Design](https://www.machudesign.com)**: My own company where I create and manage architectural projects with a focus on sustainability and innovation.
 
-## 📈 Stats
-![Matthew Collins's GitHub Stats](https://github-readme-stats.vercel.app/api?username=modish0161&show_icons=true)
+## 📈 My GitHub Stats
+
+![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=modish0161&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=modish0161&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=modish0161&theme=radical)
+
+![Matthew's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=modish0161&theme=rogue)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=modish0161&theme=onedark)
+
 
 ## 📚 Learning & Future Goals
 I am currently diving deeper into AI and Machine Learning, aiming to integrate these technologies into blockchain solutions. My goal is to continue leading in the digital transformation of industries, enhancing how businesses operate and interact.
