@@ -41,12 +41,93 @@ As a Senior Software Engineer and Architectural Technologist, I leverage a diver
 - **MongoDB, Django, and Flask**: Handling database management and backend web frameworks for robust application development.
 
 ## 🌟 Highlight Projects
-Here are some of the key projects I'm working on:
-- **[Zero Blockchain](https://zero-blockchain.xyz)**: Revolutionizing finance, healthcare, and supply chain management through blockchain technology.
-- **[Moo-lah.io](https://www.moo-lah.io)**: Financial education platform providing comprehensive insights and tools for personal finance management.
-- **[Machu Design](https://www.machudesign.com)**: My own company where I create and manage architectural projects with a focus on sustainability and innovation.
-- **Phoenix Software Application**: A platform engineered to foster social values, leveraging technology for inclusivity, diversity, and sustainability.
-- **[Zero Art NFT Marketplace](https://zero-artnft.com)**: A decentralized marketplace where creativity meets blockchain technology, featuring unique digital assets and NFTs.
+
+Below are some of the key projects I'm involved in, each showcasing my diverse range of expertise in software development, architectural design, blockchain technology, and creative innovations:
+
+### **Machu Design**
+- **Overview**: Delivering cutting-edge architectural designs that blend functionality with aesthetic appeal.
+- **Role**: Founder & Lead Architect
+- **Technologies**: CAD, 3D Visualization
+- **[Visit Machu Design](https://www.machudesign.com)**
+
+### **Modish 0161**
+- **Overview**: Developing innovative software solutions that leverage the latest in web technology to solve complex problems creatively.
+- **Role**: Software Engineer & Designer
+- **Technologies**: JavaScript, React, Next.js
+- **[Explore Modish 0161](https://modish0161.com)**
+
+### **Moo-Lah.io**
+- **Overview**: A financial platform dedicated to improving financial literacy and providing users with tools for financial management.
+- **Role**: Creator & Managing Director
+- **Technologies**: React.js, Node.js
+- **[Discover Moo-Lah.io](https://www.moo-lah.io)**
+
+### **Zero Art NFT**
+- **Overview**: A platform revolutionizing the digital art market through blockchain technology, offering artists and collectors a secure space to buy and sell NFTs.
+- **Role**: Blockchain Developer & Entrepreneur
+- **Technologies**: Ethereum, Smart Contracts
+- **[Visit Zero Art NFT](https://zeroartnft.com)**
+
+### **Zero Blockchain**
+- **Overview**: Advancing the capabilities of blockchain technology to create decentralized and secure solutions across various sectors.
+- **Role**: Blockchain Architect
+- **Technologies**: Solidity, Ethereum
+- **[Explore Zero Blockchain](https://zero-blockchain.xyz)**
+
+### **Zero Bank**
+- **Overview**: Transforming traditional banking with digital solutions that enhance user engagement and financial management.
+- **Role**: Lead Developer
+- **Technologies**: React, Web3
+- **[Go to Zero Bank](https://zero-bank.vercel.app)**
+
+### **Smart Contracts for Zero Blockchain**
+- **Overview**: Developing robust smart contracts for decentralized platforms focusing on security and efficiency.
+- **GitHub**: [View GitHub Repository](https://github.com/modish0161/Smart-Contracts-Use-Cases---Zero-Blockchain-xyz---POW--POS)
+
+### **Portfolio No. 7**
+- **Overview**: A personal portfolio site showcasing my web development projects and technical versatility.
+- **Role**: Web Developer & Designer
+- **[View Portfolio No. 7](https://machudesign-portfolio7.vercel.app/)**
+
+### **Zero Art Curation**
+- **Overview**: An art curation project that blends technology with artistic expression to create a unique digital art experience.
+- **Role**: Curator & Developer
+- **[Explore Zero Art](https://zeroartcuration.wixsite.com/zero-art)**
+
+### **CannaBeeDee**
+- **Overview**: Offering premium CBD products with a focus on wellness and quality, embodying modern health trends.
+- **Role**: E-commerce Strategist
+- **[Visit CannaBeeDee](https://cannabeedee.wixsite.com/mysite)**
+
+### **ReguSync**
+- **Overview**: Enhancing communication with AI-powered chat experiences and integrated PDF functionalities for businesses.
+- **Role**: Software Developer
+- **[Go to ReguSync](https://regusync.vercel.app/)**
+
+### **Zero GPT-Clone**
+- **Overview**: Developing language learning models based on AI, leveraging OPEN AI GPT-3.5 to enhance educational tools.
+- **Role**: AI Developer
+- **[Explore Zero GPT](https://zero-gpt-clone.vercel.app/)**
+
+### **Phoenix Software Application**
+- **Overview**: Creating software solutions that uphold social values, focusing on environmental, social, and governance (ESG) principles.
+- **Role**: Project Manager & Lead Developer
+- **[Visit Phoenix Application](https://phoenix-software-application-deployment.vercel.app/)**
+
+### **No-Brainer**
+- **Overview**: A user-friendly platform providing engaging AI chat experiences with a focus on modern UI/UX design.
+- **Role**: UI/UX Designer
+- **[Discover No-Brainer](https://no-brainer-flax.vercel.app/)**
+
+### **Modish Space Portfolio**
+- **Overview**: Showcasing my full-stack development experiences and projects in a comprehensive digital portfolio.
+- **Role**: Full Stack Developer
+- **[View Modish Space Portfolio](https://modish-space-portfolio.vercel.app/)**
+
+### **Fior Ribelle**
+- **Overview**: Redefining fashion with innovative and elegant couture, targeting the modern trendsetter.
+- **Role**: Creative Director
+- **[Explore Fior Ribelle](https://fiorribelle2014.wixsite.com/mysite)**
 
 ## 📈 My GitHub Stats
 
