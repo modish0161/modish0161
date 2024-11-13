@@ -22,9 +22,9 @@ As a Senior Software Engineer and Architectural Technologist, I leverage a diver
 - **Tailwind.css & Framer Motion**: Styling and animating web applications with modern CSS frameworks and animation libraries.
 
 ### **Blockchain & Web3**
-- **Ethereum & Polygon**: Deploying decentralized applications and smart contracts.
+- **Ethereum & Polygon**: Deploying decentralised applications and smart contracts.
 - **Smart Contracts**: Creating and managing contracts using Solidity and tools like Hardhat and Truffle.
-- **IPFS & Ethers.js**: Implementing decentralized storage solutions and Ethereum blockchain interaction.
+- **IPFS & Ethers.js**: Implementing decentralised storage solutions and Ethereum blockchain interaction.
 
 ### **Development Tools & Platforms**
 - **Vercel & AWS**: Hosting and managing web applications with a focus on performance and scalability.
