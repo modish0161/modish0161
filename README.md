@@ -60,7 +60,7 @@ Below are some of the key projects I'm involved in, each showcasing my diverse r
 - **Overview**: A financial platform dedicated to improving financial literacy and providing users with tools for financial management.
 - **Role**: Creator & Managing Director
 - **Technologies**: React.js, Node.js
-- **[Discover Moo-Lah.io](https://www.moo-lah.io](https://moolah0161.wixsite.com/moo-lah)**
+- **[Discover Moo-Lah.io](https://moolah0161.wixsite.com/moo-lah)**
 
 ### **Zero Art NFT**
 - **Overview**: A platform revolutionizing the digital art market through blockchain technology, offering artists and collectors a secure space to buy and sell NFTs.
