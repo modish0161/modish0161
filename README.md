@@ -48,7 +48,7 @@ Below are some of the key projects I'm involved in, each showcasing my diverse r
 - **Overview**: Delivering cutting-edge architectural designs that blend functionality with aesthetic appeal.
 - **Role**: Founder & Lead Architect
 - **Technologies**: CAD, 3D Visualization
-- **[Visit Machu Design](https://www.machudesign.com)**
+- **[Visit Machu Design](https://machudesigns.wixsite.com/website-1)**
 
 ### **Modish 0161**
 - **Overview**: Developing innovative software solutions that leverage the latest in web technology to solve complex problems creatively.
@@ -60,7 +60,7 @@ Below are some of the key projects I'm involved in, each showcasing my diverse r
 - **Overview**: A financial platform dedicated to improving financial literacy and providing users with tools for financial management.
 - **Role**: Creator & Managing Director
 - **Technologies**: React.js, Node.js
-- **[Discover Moo-Lah.io](https://www.moo-lah.io)**
+- **[Discover Moo-Lah.io](https://www.moo-lah.io](https://moolah0161.wixsite.com/moo-lah)**
 
 ### **Zero Art NFT**
 - **Overview**: A platform revolutionizing the digital art market through blockchain technology, offering artists and collectors a secure space to buy and sell NFTs.
