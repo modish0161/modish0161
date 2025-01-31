@@ -3,7 +3,7 @@
 Hello! I'm Matthew Collins a.k.a Modish0161, a Senior Software Engineer and Architectural Technologist from Manchester, UK. With a deep passion for blending technology with creative design, I specialise in Web3 development, blockchain technologies, and architectural software solutions.
 
 ## 🚀 About Me
-With over 15 years of experience in architectural technology and software engineering, I've successfully managed and implemented projects from concept to fruition. My technical journey has led me to specialize in blockchain and Web3, creating innovative solutions that enhance digital transactions and user experiences.
+With over 15 years of experience in architectural technology and software engineering, I've successfully managed and implemented projects from concept to fruition. My technical journey has led me to specialise in blockchain and Web3, creating innovative solutions that enhance digital transactions and user experiences.
 
 Here at GitHub, I share my projects, collaborate on open-source initiatives, and contribute to a community of developers passionate about cutting-edge technology and design.
 
@@ -14,7 +14,7 @@ As a Senior Software Engineer and Architectural Technologist, I leverage a diver
 ### **Programming Languages**
 - **JavaScript**: Expertise in both frontend and backend development, creating dynamic user experiences and server-side logic.
 - **Python**: Proficient in building scalable backend applications, data analysis, and machine learning projects.
-- **Solidity**: Specializing in smart contract development for Ethereum-based applications.
+- **Solidity**: Specialising in smart contract development for Ethereum-based applications.
 
 ### **Frameworks & Libraries**
 - **React.js & Next.js**: Building interactive UIs and SSR applications.
@@ -47,7 +47,7 @@ Below are some of the key projects I'm involved in, each showcasing my diverse r
 ### **Machu Design**
 - **Overview**: Delivering cutting-edge architectural designs that blend functionality with aesthetic appeal.
 - **Role**: Founder & Lead Architect
-- **Technologies**: CAD, 3D Visualization
+- **Technologies**: CAD, 3D Visualisation
 - **[Visit Machu Design](https://machudesigns.wixsite.com/website-1)**
 
 ### **Modish 0161**
