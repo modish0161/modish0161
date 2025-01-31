@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-Hello! I'm Matthew Collins a.k.a Modish0161, a Senior Software Engineer and Architectural Technologist from Manchester, UK. With a deep passion for blending technology with creative design, I specialize in Web3 development, blockchain technologies, and architectural software solutions.
+Hello! I'm Matthew Collins a.k.a Modish0161, a Senior Software Engineer and Architectural Technologist from Manchester, UK. With a deep passion for blending technology with creative design, I specialise in Web3 development, blockchain technologies, and architectural software solutions.
 
 ## 🚀 About Me
 With over 15 years of experience in architectural technology and software engineering, I've successfully managed and implemented projects from concept to fruition. My technical journey has led me to specialize in blockchain and Web3, creating innovative solutions that enhance digital transactions and user experiences.
